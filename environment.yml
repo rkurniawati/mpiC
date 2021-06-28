@@ -1,0 +1,7 @@
+name: mpicc-environment
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - openmpi
+  - openmpi-mpicc
