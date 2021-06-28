@@ -1,4 +1,4 @@
-# Java Open MPI Notebook
+# C Open MPI Notebook
 
 You can open this notebook in Google Colab or Binder using one the links below and start working on the examples. 
 
